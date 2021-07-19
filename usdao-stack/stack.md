@@ -2,11 +2,11 @@
 
 There are, however, core technologies of USDAO that help provide a model for how software applications interact with the USDAO stable coin. Understanding the layers of the stack will help you understand the different ways that USDAO can be integrated into different projects.
 
-### Smart Contracts
+### [Smart Contracts](smart-contract-modules/)
 
 Smart Contracts are self-executable programs running on the blockchain. Smart contracts help you exchange money, property, shares, or anything of value in a transparent, conflict-free way while avoiding the services of a middleman.
 
-### USDAO APIS
+### [USDAO APIS](usdao-apis.md)
 
 Many convenience libraries \(built and maintained by USDAO's open-source community\) allow your end-user applications to connect to and communicate with the Ethereum blockchain.
 
