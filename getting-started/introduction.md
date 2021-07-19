@@ -1,7 +1,5 @@
 # Introduction
 
-## Introduction
-
 In order to create a stable coin that meets the requirements of businesses and enterprises, it is important that not only it is competent enough against traditional solutions but also present significant improvements over them. We offer USDAO stable coin as a solution to the above problem. USDAO stable coin has been designed to keep simplicity, interoperability, and business compatibility at its core. IntegratingUSDAO as a payment channel into your existing business or enterprise use case is simpler than the leading payment solutions available today. All you need is a blockchain wallet with an account to send and receive payments in USDAO to get started. The process is simpler compared to traditional solutions which include registrations, KYC, complex integrations, and high transaction fees.
 
 Unlike many other existing stable coins like USDT and USDC, we offer 100% transparency in accountings and a robust governance mechanism that shall be fully decentralized and run by an open community. We have also removed the unfair and unnecessary burden of the over-collateralization mechanism of assets for minting tokens as DAI does. Instead, we bring a fairer and robust protocol to maintain the pool stability.
