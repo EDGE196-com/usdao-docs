@@ -6,6 +6,8 @@
 ## Getting Started
 
 * [Introduction](getting-started/introduction.md)
+* [How it works](getting-started/how-it-works/README.md)
+  * [Advantages](getting-started/how-it-works/advantages.md)
 
 ## Components & Terminologies
 
@@ -41,6 +43,7 @@
 ## Decentralized Governance
 
 * [USDAO Governance Protocol](decentralized-governance/usdao-governance-protocol.md)
+* [Key Concepts](decentralized-governance/key-concepts.md)
 * [How it works](decentralized-governance/how-it-works.md)
 
 ## Building on top of USDAO protocol
