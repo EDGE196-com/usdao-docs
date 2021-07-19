@@ -8,7 +8,7 @@ Stay tuned for future updates. Follow USDAO on all leading social media platform
 
 ## Next
 
-Multi-Collateral USDAO is the next and full version of the USDAO Stablecoin System. In this system, all ERC-20 tokens are capable of being used as collateral for USDAO. Governance token \(DGOV\) holders will be responsible for voting in and setting risk parameters for each collateral type. The scope of collateral types is as wide as tokens issued on the Ethereum platform. IN addition to it USDAO protocol will be available on all the major blockchains.
+Multi-Collateral USDAO is the next and full version of the USDAO Stablecoin System. In this system, all ERC-20 tokens are capable of being used as collateral for USDAO. Governance token \(DGOV\) holders will be responsible for voting in and setting risk parameters for each collateral type. The scope of collateral types is as wide as tokens issued on the Ethereum platform. In addition to it USDAO protocol will be available on all the major blockchains.
 
 Please check the road map for future updates and developments.
 
