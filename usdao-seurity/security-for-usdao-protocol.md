@@ -1,8 +1,4 @@
----
-description: USDAO has operated with a security and decentralized approach from day one.
----
-
-# Security
+# Security for USDAO Protocol
 
 ## Crypto Security
 

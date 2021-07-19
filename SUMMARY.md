@@ -1,20 +1,88 @@
 # Table of contents
 
-* [Overview](README.md)
+* [USDAO Documentation](README.md)
 * [Importance & Accomplishments](importance-and-accomplishments.md)
-* [Components & Terminologies](components-and-terminologies/README.md)
-  * [Continue](components-and-terminologies/continue.md)
-* [How it works](how-it-works/README.md)
-  * [Advantages](how-it-works/advantages.md)
-* [USDAO Stack](smart-contract-modules/README.md)
-  * [Smart Contract Modules](smart-contract-modules/smart-contract-modules.md)
-* [Decentralized Governance](decentralized-governance/README.md)
-  * [Key concepts in governance protocol](decentralized-governance/key-concepts-in-governance-protocol.md)
-* [Potential Use cases](potential-use-cases/README.md)
-  * [Staking](potential-use-cases/staking.md)
-  * [Startups Funding](potential-use-cases/startups-funding.md)
-  * [Payment Solutions](potential-use-cases/payment-solutions.md)
-  * [Game Economics](potential-use-cases/game-economics.md)
-* [Invitation to build applications on top of USDAO stable coin](invitation-to-build-applications-on-top-of-usdao-stable-coin.md)
-* [Security](security.md)
+
+## Getting Started
+
+* [Introduction](getting-started/introduction.md)
+
+## Components & Terminologies
+
+* [Components](components-and-terminologies/components.md)
+* [Terminologies](components-and-terminologies/terminologies.md)
+
+## How-To
+
+* [Buying/Selling](how-to/buying-selling.md)
+* [Staking](how-to/staking.md)
+* [Governance](how-to/governance.md)
+
+## USDAO Stack
+
+* [Stack](usdao-stack/stack.md)
+* [USDAO APIS](usdao-stack/usdao-apis.md)
+* [Smart Contract Modules](usdao-stack/smart-contract-modules/README.md)
+  * [USDAO Module](usdao-stack/smart-contract-modules/usdao-module.md)
+  * [ASSET Module](usdao-stack/smart-contract-modules/asset-module.md)
+  * [DAOGOV Module](usdao-stack/smart-contract-modules/daogov-module.md)
+  * [Collateral Module](usdao-stack/smart-contract-modules/collateral-module.md)
+  * [Liquidity Module](usdao-stack/smart-contract-modules/liquidity-module.md)
+  * [System Stability Module](usdao-stack/smart-contract-modules/system-stability-module.md)
+  * [Oracle Module](usdao-stack/smart-contract-modules/oracle-module.md)
+  * [Governance Module](usdao-stack/smart-contract-modules/governance-module.md)
+  * [Fees/Rates Module](usdao-stack/smart-contract-modules/fees-rates-module.md)
+
+## Protocol
+
+* [Tokonomics](protocol/tokonomics.md)
+* [Protocol Fees](protocol/protocol-fees.md)
+
+## Decentralized Governance
+
+* [USDAO Governance Protocol](decentralized-governance/usdao-governance-protocol.md)
+* [How it works](decentralized-governance/how-it-works.md)
+
+## Building on top of USDAO protocol
+
+* [Invitation to Build Applications](building-on-top-of-usdao-protocol/invitation-to-build-applications.md)
+* [Developer Guides &  Tutorials](building-on-top-of-usdao-protocol/developer-guides-and-tutorials.md)
+
+## USDAO Seurity
+
+* [Security for USDAO Protocol](usdao-seurity/security-for-usdao-protocol.md)
+
+## Potential Use Cases
+
+* [Staking](potential-use-cases/staking.md)
+* [Startups Funding](potential-use-cases/startups-funding.md)
+* [Payment Solutions](potential-use-cases/payment-solutions.md)
+* [Game Economy](potential-use-cases/game-economy.md)
+
+## Audits
+
+* [USDAO Audit](audits/usdao-audit.md)
+
+## Glossary
+
+* [USDAO Protocol Glossary](glossary/usdao-protocol-glossary.md)
+* [Smart Contract Annotations](glossary/smart-contract-annotations.md)
+
+## USDAO Updates
+
+* [USDAO Public Releases](usdao-updates/usdao-public-releases.md)
+
+## USDAO Foundation
+
+* [Role of USDAO Foundation](usdao-foundation/role-of-usdao-foundation.md)
+
+## Roadmap
+
+* [USDAO Roadmap For 2021](roadmap/usdao-roadmap-for-2021.md)
+* [USDAO Roadmap For 2022](roadmap/usdao-roadmap-for-2022.md)
+
+---
+
+* [USDAO Whitepaper](https://gateway.ipfs.io/ipfs/QmQC7js6gwJ4EsDY8t2x2nECX1BD66c2qj6HvnbDV9Mn8y)
+* [Conclusion](conclusion.md)
 

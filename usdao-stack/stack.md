@@ -1,10 +1,4 @@
----
-description: >-
-  Like any software stack, the complete "USDAO stack" will vary from project to
-  project depending on your business goals.
----
-
-# USDAO Stack
+# Stack
 
 There are, however, core technologies of USDAO that help provide a model for how software applications interact with the USDAO stable coin. Understanding the layers of the stack will help you understand the different ways that USDAO can be integrated into different projects.
 

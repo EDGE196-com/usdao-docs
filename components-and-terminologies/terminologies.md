@@ -1,4 +1,4 @@
-# Continue
+# Terminologies
 
 ### Reserve Pool <a id="reserve-pool-"></a>
 
