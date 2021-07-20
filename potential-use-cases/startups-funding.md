@@ -1,4 +1,12 @@
 # Startups Funding
 
-ICOs were a big deal back in 2017. It is a great concept but lacks security. However, since anybody could launch their own ICO with little technical knowledge, hundreds of untrusted and Ponzi schemes flooded the ICO market which soon became scams. With the vision to secure ICOs and uplift valuable startups with true potential, we intend to provide a trustless platform for both legitimate startups and global investors.
+ICOs were a big deal back in 2017. It is a great concept but lacks security. However, since anybody could launch their own ICO with little technical knowledge, hundreds of untrusted and Ponzi schemes ﬂooded the ICO market which soon became scams. With the vision to secure ICOs and uplift valuable startups with true potential, we intend to provide a trustless platform for both legitimate startups and global investors.
+
+The platform shall harness the true potential of smart contracts and enable the funding of startups with USDAO stablecoins as input. To prevent the ICO mistake and safeguard investors money the investors shall invest into the startup smart contract rather than in startups directly. Investors deposit Ether into the startup smart contract in lieu of startup tokens. These startup tokens represent their funding amount to a pool of startups. The Ether received from various investors shall be used to mint USDAO stablecoin by the startup smart contract. The startup smart contract shall be governed by a decentralized community of incubators and mentors whose
+
+prime role is to ﬁlter out the best performing startups and allocate stablecoin funds to them. This way when startups do good and their valuation increases the valuation of startup tokens increase which investors may further redeem along with the proﬁt. It is safer to invest in this platform than in an unknown ICO since the investment goes to a pool of startups all of which are being mentored and incubated by reputed incubators.
+
+The dream of a truly global stablecoin cannot be achieved unless it replaces ﬁat currencies as the preferred payment asset. We intend to provide the merchants of the world with the enormous potential of blockchain technology in its most simpliﬁed form. We envisage providing a better and safer payment method alternative to the giant but centralized ﬁat institutions.
+
+We are offering simple APIs and widgets that can be used to quickly start accepting payments in USDAO across the globe. Similar to popular centralized payment channel services like Apple Pay, GooglePay, we would soon provide a web interface with rich transaction data and other important information regarding payment activities.
 
