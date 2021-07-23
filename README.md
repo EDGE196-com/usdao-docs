@@ -1,6 +1,6 @@
 ---
 description: >-
-  A truly decentralized crypto-backed stablecoin intended to serve as a global
+  A truly decentralized crypto-backed stable coin intended to serve as a global
   currency. USDAO brings together familiar concepts into a never-before-seen
   protocol.​ Learn how it works.
 ---
