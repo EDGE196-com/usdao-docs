@@ -8,7 +8,7 @@
 * [Introduction](getting-started/introduction.md)
 * [How it works](getting-started/how-it-works/README.md)
   * [Advantages](getting-started/how-it-works/advantages.md)
-* [For Individuals](getting-started/for-individuals.md)
+* [For Traders](getting-started/for-individuals.md)
 * [For Businesses](getting-started/for-businesses.md)
 * [For Developers](getting-started/for-developers.md)
 
