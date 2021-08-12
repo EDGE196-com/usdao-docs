@@ -20,6 +20,7 @@
 ## How-To
 
 * [Buying/Selling](how-to/buying-selling.md)
+* [Deposit SWAP: Minting By Other Tokens](how-to/deposit-swap-minting-by-other-tokens.md)
 * [Staking](how-to/staking.md)
 * [Governance](how-to/governance.md)
 
