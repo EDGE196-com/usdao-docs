@@ -20,11 +20,19 @@ Defund price is exactly the reverse of the fund price. It is the price at which 
 
 ### Debt Ratio <a id="debt-ratio-"></a>
 
-In its simplest mathematical representation, the debt ratio is basically the ratio of the total number of stable coins out in the market to the US dollar value of the reserve pool.
+In its simplest mathematical representation, the debt ratio is the ratio of the total number of stablecoins out in the market to the US dollar value of the reserve pool i.e.
 
-The debt ratio signifies the ratio of the amount of buy and sell activities of USDAO stable coin in the market at that point in time. In other words, if the debt ratio is, let’s say, 50% that is equivalent to say that for every 100 US dollars worth of Ether present in the system there are 50 stable coins \(worth 50 USD\) out in the market. This also means that should each token be burnt right now for Ether the system has sufficient collateral in the pool to pay everybody back.
+### **𝐷𝑒𝑏𝑡 𝑟𝑎𝑡𝑖𝑜 = 𝑡𝑜𝑡𝑎𝑙 𝑈𝑆𝐷𝐴𝑂 𝑠𝑡𝑎𝑏𝑙𝑒𝑐𝑜𝑖𝑛𝑠 𝑖𝑛 𝑡ℎ𝑒 𝑚𝑎𝑟𝑘𝑒𝑡 / 𝑈𝑆𝐷 𝑣𝑎𝑙𝑢𝑒 𝑜𝑓 𝑡ℎ𝑒 𝑟𝑒𝑠𝑒𝑟𝑣𝑒 𝑝𝑜𝑜𝑙**
+
+The debt ratio signiﬁes the ratio of the amount of buy and sell activities of USDAO stablecoin in the market at that point of time. In other words, if the debt ratio is, let’s say, 50% that is equivalent to say that for every 100 US dollars' worth of Ether present in the system there are 50 stablecoins \(worth 50 USD\) out in the market. This also means that should each token be burnt right now for Ether the system has us client collateral in the pool to pay everybody back.
 
 The debt ratio of 100% or above is an alarming situation for the system because it means the system does not have enough Ether to return to users in case of 100% USDAO token withdrawal. Hence at this stage, the users receive Ether which is in proportion to the number of tokens they are withdrawing and the amount of Ether available in the pool.
+
+As an example, let’s consider a situation where 1 Ether is 1 USD. Let’s suppose there are a total of 100 USDAO tokens in the market. Now let’s assume a person owns 50 of them and he wants to burn 50 USDAO tokens. If the debt ratio is below 100%, he shall receive Ethers worth 50 USD. But if the
+
+debt ratio is above 100% and only 80 USD worth of Ether is present in the pool then the price of each USDAO reduces to 80 USD/100 USDAO i.e., 0.8 USD per USDAO. So, the user shall get about 40 USD worth of Ether after the burn.
+
+In such situations, the debt ratio then must be brought down below by funding the reserve pool by minting ASSET tokens. The foundation must be proactive to ensure required steps must be taken to keep the debt ratio below 100%.
 
 ### MAX Debt Ratio <a id="max-debt-ratio-"></a>
 
@@ -32,5 +40,11 @@ When the debt ratio goes above 80% the defund of ASSET is disabled until the deb
 
 ### Oracles <a id="oracles-"></a>
 
-An oracle is a reliable source of ETH/USD price. Our system currently fetches the ETH/USD price from three oracles - Chainlink, Uniswap V2, and Compound oracle. These oracles are an indispensable part of the whole system as it determines the mint, burn, fund, and defund prices. The debt ratio is also determined by the prices returned by the oracles. The reason to use three oracles is to protect the system against any malfunction or inaccuracy in any individual oracle. The system calculates the median price returned by these three oracles, which is further used in operations like mint, burn, etc.
+An oracle is a reliable source of ETH/USD price. Our system currently fetches the ETH/USD price from three oracles - Chainlink, Uniswap V2, and Compound oracle. These oracles are an indispensable part of the whole system as it determines the mint, burn, fund, and defund prices. The debt ratio is also determined by the prices returned by the oracles. The reason to use three oracles is to protect the system against any malfunction or inaccuracy in any individual oracle. The system calculates the median price returned by these three oracles, which is further used in operations like mint, burn, etc. 
+
+For more check out
+
+{% page-ref page="../usdao-stack/smart-contract-modules/oracle-module.md" %}
+
+
 
