@@ -116,13 +116,13 @@ Using this netASSETDelta, we now determine the new adjGrowthFactor which is basi
 
 **So, adjGrowthFactor =**
 
-![](../../../.gitbook/assets/capture.jpg)
+![](../../../.gitbook/assets/capture%20%281%29.jpg)
 
 Now that we know how much price impact this fund operation is going to make we finally calculate the adjustedEthUsdPrice1 which is the price at which these asset tokens will be minted from the supplied input ether.
 
 As discussed above the price from fund operation should move more up than a mint operation hence, we calculate and adjusted ETH/USD price based on our previous adjusted ETH/USD price and new adjGrowthFactor.
 
-![](../../../.gitbook/assets/capture%20%281%29.jpg)
+![](../../../.gitbook/assets/capture.jpg)
 
 The square above is a WAD square
 
@@ -130,7 +130,7 @@ So now we have a new adjusted EthUsdPrice, hence we calculate the new asset buy 
 
 Taking the geometric mean of assetBuyPrice0 and assetBuyPrice1 we get,
 
-![](../../../.gitbook/assets/capture%20%282%29.jpg)
+![](../../../.gitbook/assets/capture%20%283%29.jpg)
 
 Finally, output asset tokens equal to,
 
