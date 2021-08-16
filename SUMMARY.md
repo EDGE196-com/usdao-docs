@@ -70,7 +70,7 @@
 * [Payment Solutions](potential-use-cases/payment-solutions.md)
 * [Game Economy](potential-use-cases/game-economy.md)
 * [NFT](potential-use-cases/nft.md)
-* [Funding Tree : Launchpad Decentralized](potential-use-cases/funding-tree-launchpad-decentralized.md)
+* [Funding Tree: Decentralized Launchpad](potential-use-cases/funding-tree-launchpad-decentralized.md)
 * [Power Stake](potential-use-cases/power-stake.md)
 * [Universal Swap](potential-use-cases/universal-swap.md)
 * [Remittance](potential-use-cases/remittance.md)
