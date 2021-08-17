@@ -34,7 +34,7 @@
     * [USDAO Burn](usdao-stack/smart-contract-modules/usdao-module/usdao-burn.md)
   * [ASSET Module](usdao-stack/smart-contract-modules/asset-module/README.md)
     * [ASSET FUND](usdao-stack/smart-contract-modules/asset-module/asset-fund.md)
-  * [ASSET DEFUND](usdao-stack/smart-contract-modules/asset-defund.md)
+    * [ASSET DEFUND](usdao-stack/smart-contract-modules/asset-module/asset-defund.md)
   * [DAOGOV Module](usdao-stack/smart-contract-modules/daogov-module.md)
   * [Collateral Module](usdao-stack/smart-contract-modules/collateral-module.md)
   * [Liquidity Module](usdao-stack/smart-contract-modules/liquidity-module.md)

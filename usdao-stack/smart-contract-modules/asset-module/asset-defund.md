@@ -16,19 +16,19 @@ $$
 
 The shrink factor after this defund operation can be calculated as,
 
-![](../../.gitbook/assets/capture%20%289%29.jpg)
+![](../../../.gitbook/assets/capture%20%289%29.jpg)
 
 lowerBoundEthShrinkFactor1 is not the true shrink factor since this was calculated using lowerBoundEthQty1. But lowerBoundEthQty1 is not the actual ether that will be returned to the defunder.
 
 Anyways, using lowerBoundEthShrinkFactor1 we can calculate \(yet again fictitious\) adjusted ETH/USD price, adjustedEthUsdPrice1. adjustedEthUsdPrice1 is the resultant adjusted ETH/USD price after the defund operation if the shrink factor was lowerBoundEthShrinkFactor1.
 
-![](../../.gitbook/assets/capture%20%286%29.jpg)
+![](../../../.gitbook/assets/capture%20%286%29.jpg)
 
 From adjustedEthUsdPrice1, we can calculate the resultant debtRatio2 we'll end up at after the defund operation, and from debtRatio2, a resulting netFumDelta2 we can hold fixed during the calculation:
 
 Now we calculate the dollar value of total ethers in pool to later calculate the debt ratio,
 
-![](../../.gitbook/assets/capture%20%285%29.jpg)
+![](../../../.gitbook/assets/capture%20%285%29.jpg)
 
 If total supply of USDAO is 0, the debt ratio = 0. 
 
@@ -38,7 +38,7 @@ Else if ethPoolValueInUsd is greater than 0, the debt ratio is the quotient of U
 
 So, if ethPoolValueInUsd &gt; 0
 
-![](../../.gitbook/assets/capture%20%282%29.jpg)
+![](../../../.gitbook/assets/capture%20%282%29.jpg)
 
 Let this be called debtRatio1. We choose the minimum debt ratio between debtRatio1 and MAX\_DEBT\_RATIO \(80%\). Let this be called debtRatio2.
 
@@ -46,11 +46,11 @@ Let this be called debtRatio1. We choose the minimum debt ratio between debtRati
 
 So,
 
-![](../../.gitbook/assets/capture%20%287%29.jpg)
+![](../../../.gitbook/assets/capture%20%287%29.jpg)
 
 #### Using our formula to calculate adjChangeFactor
 
-![](../../.gitbook/assets/capture%20%284%29.jpg)
+![](../../../.gitbook/assets/capture%20%284%29.jpg)
 
 And adjShrinkFactor tells us the adjustedEthUsdPrice2 we'll end the operation at, from which we can also calculate the instantaneous Asset sell price we'll end the operation at, just as we calculated our ending assetBuyPrice1 in assetFromFund\(\). Let this instantaneous Asset sell price be called assetSellPrice2.
 
