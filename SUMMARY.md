@@ -8,9 +8,9 @@
 * [Introduction](getting-started/introduction.md)
 * [How it works](getting-started/how-it-works/README.md)
   * [Advantages](getting-started/how-it-works/advantages.md)
-* [For Traders](getting-started/for-individuals.md)
 * [For Businesses](getting-started/for-businesses.md)
 * [For Developers](getting-started/for-developers.md)
+* [Trading](getting-started/trading.md)
 
 ## Components & Terminologies
 
@@ -26,7 +26,6 @@
 ## USDAO Stack
 
 * [Stack](usdao-stack/stack.md)
-* [USDAO APIS](usdao-stack/usdao-apis.md)
 * [Smart Contract Modules](usdao-stack/smart-contract-modules/README.md)
   * [USDAO Module](usdao-stack/smart-contract-modules/usdao-module/README.md)
     * [USDAO Mint](usdao-stack/smart-contract-modules/usdao-module/usdao-mint.md)
