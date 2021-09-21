@@ -1,4 +1,4 @@
 # Smart Contract Annotations
 
-Updating Soon
+Page Under Development
 
