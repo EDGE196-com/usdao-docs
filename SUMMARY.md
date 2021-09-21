@@ -9,8 +9,8 @@
 * [How it works](getting-started/how-it-works/README.md)
   * [Advantages](getting-started/how-it-works/advantages.md)
 * [For Businesses](getting-started/for-businesses.md)
-* [For Developers](getting-started/for-developers.md)
-* [Trading](getting-started/trading.md)
+* [For Developers](getting-started/for-developers/README.md)
+  * [Trading](getting-started/for-developers/trading.md)
 
 ## Components & Terminologies
 
