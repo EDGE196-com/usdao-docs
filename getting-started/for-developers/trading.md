@@ -1,3 +1,7 @@
+---
+description: Trading SDK functions.
+---
+
 # Trading
 
 ### Infura Util

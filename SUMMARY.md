@@ -10,6 +10,7 @@
   * [Advantages](getting-started/how-it-works/advantages.md)
 * [For Businesses](getting-started/for-businesses.md)
 * [For Developers](getting-started/for-developers/README.md)
+  * [Govarnance](getting-started/for-developers/govarnance.md)
   * [Trading](getting-started/for-developers/trading.md)
 
 ## Components & Terminologies
