@@ -1,4 +1,4 @@
 # USDAO Protocol Glossary
 
-Updating Soon
+Page Under Development
 
