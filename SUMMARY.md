@@ -98,7 +98,7 @@
 
 ---
 
-* [USDAO Whitepaper](https://gateway.ipfs.io/ipfs/QmQC7js6gwJ4EsDY8t2x2nECX1BD66c2qj6HvnbDV9Mn8y)
+* [USDAO Whitepaper](https://www.usdao.io/whitepaper)
 * [Conclusion](conclusion.md)
 * [Contact Reference](contact-reference.md)
 
