@@ -22,7 +22,7 @@ await infura.getChainId()
 
 * Read Contract Function
 
-Returns the contract for the particular token passed. Tokens =&gt; \(usm, fum, governarAlpha, comp, usmView\)
+Returns the contract for the particular token passed. Tokens =&gt; \(usdao, asset, governarAlpha, daogov, usdaoView\)
 
 ```text
 await infura.readContractFunction(token)
@@ -38,7 +38,7 @@ await userAddress()
 
 * Token Balance
 
-Returns the balance of the contract token passed. Tokens =&gt; \(usm, fum, governarAlpha, comp, usmView\)
+Returns the balance of the contract token passed. Tokens =&gt; \(usdao, asset, governarAlpha, daogov, usdaoView\)
 
 ```text
 await balanceof(token)
@@ -54,7 +54,7 @@ await balaceOfEther()
 
 * Staked Amount
 
-Returns the staked balance of the contract token passed. Tokens =&gt; \(usm, fum, governarAlpha, comp, usmView\)
+Returns the staked balance of the contract token passed. Tokens =&gt; \(usdao, asset, governarAlpha, daogov, usdaoView\)
 
 ```text
 await stakedAmount(token)
@@ -62,7 +62,7 @@ await stakedAmount(token)
 
 * Latest Price
 
-Returns the latest price of the contract token passed. Tokens =&gt; \(usm, fum, governarAlpha, comp, usmView\)
+Returns the latest price of the contract token passed. Tokens =&gt; \(usdao, asset, governarAlpha, daogov, usdaoView\)
 
 ```text
 await latestPrice(token)
@@ -70,7 +70,7 @@ await latestPrice(token)
 
 * Get Debt Ratio
 
-Returns the debt ratio for the usm contract.
+Returns the debt ratio for the usdao contract.
 
 ```text
 await getDebtRatio()
@@ -78,7 +78,7 @@ await getDebtRatio()
 
 * Get Collateral
 
-Returns the collateral value for the usm contract.
+Returns the collateral value for the usdao contract.
 
 ```text
 await getCollateral()
@@ -86,7 +86,7 @@ await getCollateral()
 
 * Get Eth Buffer
 
-Returns the eth buffer for the specified usm contract.
+Returns the eth buffer for the specified usdao contract.
 
 ```text
 await getEthBuffer()
