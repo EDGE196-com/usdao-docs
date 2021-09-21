@@ -6,7 +6,7 @@ description: Governance SDK Functions.
 
 ### Initialize Governance
 
-This will initialize the Governance functions and methods. Returns the provider, signer and network for the wallet connected.
+This will initialize the Governance functions and methods. Returns the provider, signer, and network for the wallet connected.
 
 ```text
 await initiateGovernance(`infuraUrl`)
@@ -20,20 +20,20 @@ This will return the governance contract address and abi from the contract.
 await govAddressAndAbi()
 ```
 
-* Comp Address And Abi
+* DAOGOV Address And Abi
 
-This will return the Comp contract address and abi from the contract.
+This will return the DAOGOV contract address and abi from the contract.
 
 ```text
-await compAddressAndAbi()
+await daogovAddressAndAbi()
 ```
 
-* USM Address And Abi
+* USDAO Address And Abi
 
-  This will return the Usm contract address and abi from the contract.
+  This will return the USDAO contract address and abi from the contract.
 
   ```text
-  await usmAddressAndAbi()
+  await usdaoAddressAndAbi()
   ```
 
 
