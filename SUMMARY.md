@@ -51,7 +51,6 @@
 
 * [USDAO Governance Protocol](decentralized-governance/usdao-governance-protocol.md)
 * [Key Concepts](decentralized-governance/key-concepts.md)
-* [How it works](decentralized-governance/how-it-works.md)
 
 ## Building on top of USDAO protocol
 
