@@ -22,7 +22,7 @@ await infura.getChainId()
 
 * Read Contract Function
 
-Returns the contract for the particular token passed. Tokens =&gt; \(usdao, asset, governarAlpha, comp, usdaoView\)
+Returns the contract for the particular token passed. Tokens =&gt; \(usdao, asset, governarAlpha, daogov, usdaoView\)
 
 ```text
 await infura.readContractFunction(token)
@@ -38,7 +38,7 @@ await userAddress()
 
 * Token Balance
 
-Returns the balance of the contract token passed. Tokens =&gt; \(usdao, asset, governarAlpha, comp, usdaoView\)
+Returns the balance of the contract token passed. Tokens =&gt; \(usdao, asset, governarAlpha, daogov, usdaoView\)
 
 ```text
 await balanceof(token)
@@ -54,7 +54,7 @@ await balaceOfEther()
 
 * Staked Amount
 
-Returns the staked balance of the contract token passed. Tokens =&gt; \(usdao, asset, governarAlpha, comp, usdaoView\)
+Returns the staked balance of the contract token passed. Tokens =&gt; \(usdao, asset, governarAlpha, daogov, usdaoView\)
 
 ```text
 await stakedAmount(token)
@@ -62,7 +62,7 @@ await stakedAmount(token)
 
 * Latest Price
 
-Returns the latest price of the contract token passed. Tokens =&gt; \(usdao, asset, governarAlpha, comp, usdaoView\)
+Returns the latest price of the contract token passed. Tokens =&gt; \(usdao, asset, governarAlpha, daogov, usdaoView\)
 
 ```text
 await latestPrice(token)
