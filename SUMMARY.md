@@ -40,7 +40,6 @@
   * [System Stability Module](usdao-stack/smart-contract-modules/system-stability-module.md)
   * [Oracle Module](usdao-stack/smart-contract-modules/oracle-module.md)
   * [Governance Module](usdao-stack/smart-contract-modules/governance-module.md)
-  * [Fees/Rates Module](usdao-stack/smart-contract-modules/fees-rates-module.md)
 
 ## Protocol
 
