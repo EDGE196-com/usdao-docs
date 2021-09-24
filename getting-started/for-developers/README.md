@@ -1,8 +1,8 @@
 # For Developers
 
-{% page-ref page="govarnance.md" %}
+{% page-ref page="governance.md" %}
 
-{% page-ref page="trading.md" %}
+{% page-ref page="usdaosdk.md" %}
 
 
 

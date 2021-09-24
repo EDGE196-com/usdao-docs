@@ -10,8 +10,8 @@
   * [Advantages](getting-started/how-it-works/advantages.md)
 * [For Businesses](getting-started/for-businesses.md)
 * [For Developers](getting-started/for-developers/README.md)
-  * [Govarnance](getting-started/for-developers/govarnance.md)
-  * [Trading](getting-started/for-developers/trading.md)
+  * [USDAO SDK](getting-started/for-developers/usdaosdk.md)
+  * [Governance](getting-started/for-developers/governance.md)
 
 ## Components & Terminologies
 
