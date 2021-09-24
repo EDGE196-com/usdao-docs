@@ -34,8 +34,6 @@
     * [ASSET FUND](usdao-stack/smart-contract-modules/asset-module/asset-fund.md)
     * [ASSET DEFUND](usdao-stack/smart-contract-modules/asset-module/asset-defund.md)
   * [DAOGOV Module](usdao-stack/smart-contract-modules/daogov-module.md)
-  * [Collateral Module](usdao-stack/smart-contract-modules/collateral-module.md)
-  * [System Stability Module](usdao-stack/smart-contract-modules/system-stability-module.md)
   * [Oracle Module](usdao-stack/smart-contract-modules/oracle-module.md)
   * [Governance Module](usdao-stack/smart-contract-modules/governance-module.md)
 
