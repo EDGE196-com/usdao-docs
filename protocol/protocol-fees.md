@@ -10,5 +10,3 @@ Asset Burning fee: 3% of total transaction collected in ETH
 
 Transaction fee: 0.3% in USDAO fee on every wallet address to address transfer
 
-Staking fee: 0.2% of the principal amount
-
