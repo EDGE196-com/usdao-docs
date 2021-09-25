@@ -96,7 +96,7 @@ await readConn.conversionOfEther('usmView', 'eth', 'asset', value)
 How much ETH will be returned on burning this amount of Asset tokens.
 
 ```bash
-- usmView
+# @param - usmView
 # @param - eth
 # @param - asset
 # @param - value -- amount of Asset tokens being burned
@@ -173,7 +173,7 @@ await readConn.getEthBuffer()
 Returns the total supply of USDAO or Asset
 
 ```bash
-@param token -- usm or fum
+# @param token -- usm or fum
 await readConn.totalSupply(token)
 ```
 
