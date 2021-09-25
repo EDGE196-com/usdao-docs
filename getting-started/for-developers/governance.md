@@ -12,7 +12,7 @@ This will initialize the Governance functions and methods. Returns the provider,
 await initiateGovernance(`infuraUrl`)
 ```
 
-* Governace Address And Abi
+* **Governace Address And Abi**
 
 This will return the governance contract address and abi from the contract.
 
@@ -20,7 +20,7 @@ This will return the governance contract address and abi from the contract.
 await govAddressAndAbi()
 ```
 
-* DAOGOV Address And Abi
+* **DAOGOV Address And Abi**
 
 This will return the DAOGOV contract address and abi from the contract.
 
@@ -28,7 +28,7 @@ This will return the DAOGOV contract address and abi from the contract.
 await daogovAddressAndAbi()
 ```
 
-* USDAO Address And Abi
+* **USDAO Address And Abi**
 
   This will return the USDAO contract address and abi from the contract.
 
@@ -36,9 +36,7 @@ await daogovAddressAndAbi()
   await usdaoAddressAndAbi()
   ```
 
-
-
-* Make Contract
+* **Make Contract**
 
 Creates and returns the contract for the given address, and abi.  
 address: string, abi: abi\[\]
@@ -47,7 +45,7 @@ address: string, abi: abi\[\]
 await makeContract(address, abi)
 ```
 
-* Load Proposals
+* **Load Proposals**
 
 Loads the governance proposals for the given ids.  
 ids: number\[\]
@@ -56,7 +54,7 @@ ids: number\[\]
 await loadProposals()
 ```
 
-* Load Proposals State
+* **Load Proposals State**
 
 Loads the governane proposal state for the given ids.  
 ids: number\[\]
@@ -65,7 +63,7 @@ ids: number\[\]
 await loadProposalStates()
 ```
 
-* Load Fees
+* **Load Fees**
 
 Returns the burn fee, mint fee, transaction fee, transfer fee, defund fee.
 
@@ -73,7 +71,7 @@ Returns the burn fee, mint fee, transaction fee, transfer fee, defund fee.
 await loadFees()
 ```
 
-* Create Proposal
+* **Create Proposal**
 
 Creates and returns a governance proposal for the passed targets, values, signature, calldata and description.  
 targets: string, values: number, signature: string, description: string
@@ -82,7 +80,7 @@ targets: string, values: number, signature: string, description: string
 await createProposal(targets, values, signature, calldatas, description)
 ```
 
-* Fetch Delegate Votes
+* **Fetch Delegate Votes**
 
 Fetches and returns the delegated votes.
 
@@ -90,7 +88,7 @@ Fetches and returns the delegated votes.
 await fetchDelegateVotes()
 ```
 
-* Create Delegate
+* **Create Delegate**
 
 Delegate votes to a given address.
 
