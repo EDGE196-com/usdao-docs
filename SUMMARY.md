@@ -11,8 +11,8 @@
 * [For Businesses](getting-started/for-businesses.md)
 * [For Developers](getting-started/for-developers/README.md)
   * [USDAO SDK](getting-started/for-developers/usdaosdk/README.md)
-    * [Write functions](getting-started/for-developers/usdaosdk/write-functions.md)
     * [Read functions](getting-started/for-developers/usdaosdk/read-functions.md)
+    * [Write functions](getting-started/for-developers/usdaosdk/write-functions.md)
     * [Examples](getting-started/for-developers/usdaosdk/examples.md)
   * [Governance](getting-started/for-developers/governance.md)
 
