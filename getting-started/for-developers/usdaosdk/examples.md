@@ -22,10 +22,11 @@ Below is the list of important transaction functions provided by the sdk
 ### Mint USDAO
 
 ```bash
-# Mint 10 USDAO
+# Mint USDAO
 
 const mintUsdao = async(amount: number) => sdk.transaction('usm', amount, 'buy')
 
+# Mint USDAO worth 10 ETH
 await mintUsdao(10)
 ```
 
@@ -36,6 +37,7 @@ await mintUsdao(10)
 
 const burnUsdao = async(amount: number) => sdk.transaction('usm', amount, 'sell')
 
+# Burn 10 USDAO
 await burnUsdao(10)
 ```
 
@@ -56,6 +58,7 @@ await transferUsdao("xxxxxxxxxxx", 10)
 
 const fundAsset = async(amount: number) => sdk.transaction('fum', amount, 'buy')
 
+# Mint Asset tokens worth 10 ETH
 await fundAsset(10)
 ```
 
@@ -66,6 +69,7 @@ await fundAsset(10)
 
 const defundAsset = async(amount: number) => sdk.transaction('fum', amount, 'sell')
 
+# Burn 10 Asset tokens
 await defundAsset(10)
 ```
 
