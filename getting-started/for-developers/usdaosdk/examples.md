@@ -9,8 +9,8 @@ description: 'Sample codes for mint, burn, fund and defund operations using USDA
 Import the writeUtil module from the sdk:
 
 ```
-import { writeUtil } from "usdao-sdk"
-const util = new writeUtil("infura_url")
+import { writeUtil } from "usdao"
+const sdk = new writeUtil("infura_url")
 ```
 
 {% hint style="info" %}
@@ -24,7 +24,7 @@ Below is the list of important transaction functions provided by the sdk
 ```bash
 # Mint 10 USDAO
 
-const mintUsdao = async(amount: number) => util.transaction('usm', amount, 'buy')
+const mintUsdao = async(amount: number) => sdk.transaction('usm', amount, 'buy')
 
 await mintUsdao(10)
 ```
@@ -34,7 +34,7 @@ await mintUsdao(10)
 ```bash
 # Burn 10 USDAO
 
-const burnUsdao = async(amount: number) => util.transaction('usm', amount, 'sell')
+const burnUsdao = async(amount: number) => sdk.transaction('usm', amount, 'sell')
 
 await burnUsdao(10)
 ```
@@ -44,7 +44,7 @@ await burnUsdao(10)
 ```bash
 # Transfer 10 USDAO to an address
 
-const transferUsdao = async(address: string, amount: number) => util.sendToAddress('usm', address, amount)
+const transferUsdao = async(address: string, amount: number) => sdk.sendToAddress('usm', address, amount)
 
 await transferUsdao("xxxxxxxxxxx", 10)
 ```
@@ -54,7 +54,7 @@ await transferUsdao("xxxxxxxxxxx", 10)
 ```bash
 # Mint 10 Asset tokens
 
-const fundAsset = async(amount: number) => util.transaction('fum', amount, 'buy')
+const fundAsset = async(amount: number) => sdk.transaction('fum', amount, 'buy')
 
 await fundAsset(10)
 ```
@@ -64,7 +64,7 @@ await fundAsset(10)
 ```bash
 # Burn 10 Asset tokens
 
-const defundAsset = async(amount: number) => util.transaction('fum', amount, 'sell')
+const defundAsset = async(amount: number) => sdk.transaction('fum', amount, 'sell')
 
 await defundAsset(10)
 ```
@@ -74,7 +74,7 @@ await defundAsset(10)
 ```bash
 # Transfer 10 Asset to an address
 
-const transferAsset = async(address: string, amount: number) => util.sendToAddress('fum', address, amount)
+const transferAsset = async(address: string, amount: number) => sdk.sendToAddress('fum', address, amount)
 
 await transferAsset("xxxxxxxxxxx", 10)
 ```
