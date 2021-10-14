@@ -27,50 +27,42 @@ var writeContract  = new writeUtil(provider_url="Infura URL here)
 
 ### Mint - mint USDAO stablecoins
 
-This function mints USDAO stablecoins according to the Ethers passed and based on current trade price at that time.
+This function mints USDAO stablecoins according to the ethers passed.
 
 ```bash
-# @param token name: usm
-# @param amount of ether depositing 
-# @param event: buy
+# @param amount of ether depositing. Unit is in ethers  
 
-const mint = await writeContract.transaction('usm', '.1', 'buy');
+const mint = await writeContract.buyUsdao('10000')
 ```
 
 ### Burn - burn USDAO stablecoins
 
-This function burns the USDAO stablecoins from the user's account and returns corresponding Ethers to the user.
+This function burns the USDAO stablecoins from the user's account and returns corresponding ethers to the user.
 
 ```bash
-# @param token name: usm
-# @param amount of USDAO burning 
-# @param event: sell
+# @param amount of USDAO burning. Unit is in ethers  
 
-const burn = await writeContract.transaction('usm', '10000', 'sell');
+const burn = await writeContract.sellUsdao('10000');
 ```
 
 ### Fund - mint Asset tokens
 
-This function mints ASSET tokens according to the Ethers passed and based on current trade price at that time.
+This function mints ASSET tokens according to the ethers passed.
 
 ```bash
-# @param token name: fum
-# @param amount of ether depositing 
-# @param event: buy
+# @param amount of ether depositing. Unit is in ethers  
 
-const fund = await writeContract.transaction('fum', '.1', 'buy');
+const fund = await writeContract.buyAsset('0.1');
 ```
 
 ### Defund - burn Asset tokens
 
-This function burns the Asset tokens from the user's account and returns corresponding Ethers to the user.
+This function burns the Asset tokens from the user's account and returns corresponding ethers to the user.
 
 ```bash
-# @param token name: usm
-# @param amount of Asset burning 
-# @param event: sell
+# @param amount of Asset burning. Unit is in ethers 
 
-const defund = await writeContract.transaction('usm', '10000', 'sell');
+const defund = await writeContract.sellAsset('10000');
 ```
 
 ### Transfer USDAO
@@ -78,10 +70,9 @@ const defund = await writeContract.transaction('usm', '10000', 'sell');
 Transfer USDAO stablecoin from one account to another.
 
 ```bash
-# @param token name
 # @param receiver address
-# @param amount to send to 
-await writeConn.sendToAddress('usm', address, amount)
+# @param amount to send to. Unit is in ethers 
+await writeConn.transferUsdao(address, amount)
 ```
 
 ### Transfer ASSET
@@ -89,11 +80,9 @@ await writeConn.sendToAddress('usm', address, amount)
 Transfer Asset tokens from one account to another.
 
 ```bash
-# @param token name
 # @param receiver address
-# @param amount to send to 
-await writeConn.sendToAddress('fum', address, amount)
+# @param amount to send to. Unit is in ethers 
+
+await writeConn.transferAsset(address, amount)
 ```
-
-
 

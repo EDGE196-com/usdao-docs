@@ -1,8 +1,8 @@
 ---
-description: 'Sample codes for mint, burn, fund and defund operations using USDAO SDK.'
+description: Customise mint, burn, fund etc functions using USDAO SDK.
 ---
 
-# Examples
+# Customising the sdk
 
 ## Invoke the sdk
 
@@ -82,4 +82,3 @@ const transferAsset = async(address: string, amount: number) => sdk.sendToAddres
 
 await transferAsset("xxxxxxxxxxx", 10)
 ```
-

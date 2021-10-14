@@ -13,7 +13,7 @@
   * [USDAO SDK](getting-started/for-developers/usdaosdk/README.md)
     * [Read functions](getting-started/for-developers/usdaosdk/read-functions.md)
     * [Write functions](getting-started/for-developers/usdaosdk/write-functions.md)
-    * [Examples](getting-started/for-developers/usdaosdk/examples.md)
+    * [Customising the sdk](getting-started/for-developers/usdaosdk/examples.md)
   * [Governance](getting-started/for-developers/governance.md)
 
 ## Components & Terminologies
@@ -93,9 +93,8 @@
 * [USDAO Roadmap For 2021](roadmap/usdao-roadmap-for-2021.md)
 * [USDAO Roadmap For 2022](roadmap/usdao-roadmap-for-2022.md)
 
----
+***
 
 * [USDAO Whitepaper](https://www.usdao.io/whitepaper)
 * [Conclusion](conclusion.md)
 * [Contact Reference](contact-reference.md)
-
