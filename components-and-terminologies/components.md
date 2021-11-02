@@ -1,6 +1,6 @@
 # Components
 
-**USDAO** is a two token protocol, both the tokens are linked with each other via smart contracts which powers the whole USDAO ecosystem. The Governance token helps in maintaining the protocol more decentralized.
+**USDAO** is a three token protocol, both the tokens are linked with each other via smart contracts which powers the whole USDAO ecosystem. The Governance token helps in maintaining the protocol more decentralized.
 
 ### USDAO
 
@@ -12,5 +12,4 @@ The primary role of the ASSET token is to allow investors to fund the reserve po
 
 ### DAOGOV
 
-DAOGOV Token is the Governance token of the protocol aimed to distribute governance rights/voting rights for USDAO ecosystem. DAOGOV can be acquired by participating in the sale of tokens or through a USDAO community campaign. The funds raised by the governance token \(DAOGOV\), 100% of the raised amount would be shifted to stabilize the USDAO pool.
-
+DAOGOV Token is the Governance token of the protocol aimed to distribute governance rights/voting rights for USDAO ecosystem. DAOGOV can be acquired by participating in the sale of tokens or through a USDAO community campaign. The funds raised by the governance token (DAOGOV), 100% of the raised amount would be shifted to stabilize the USDAO pool.

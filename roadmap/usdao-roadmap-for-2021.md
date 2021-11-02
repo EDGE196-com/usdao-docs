@@ -19,7 +19,6 @@
 
 * Website Launched​
 * USDAO V1 Testnet Launch​
-* Audit Report- Quillhash​
 * Governance Policy Created​
 * DAOGOV Token : Mainnet Launch​
 
@@ -29,11 +28,10 @@
 * DAOGOV Marketing​
 * DAOGOV : Token Sale ​
 * USDAO V1 Mainnet Launch​
-* USDAO Foundation Registered 
+*   USDAO Foundation Registered&#x20;
 
-  ​
-
-​
+    ​
 
 ​
 
+​

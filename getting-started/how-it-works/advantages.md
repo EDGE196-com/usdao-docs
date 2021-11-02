@@ -1,12 +1,12 @@
 # Advantages
 
-### **Resourceful documentation, APIs, and tools to build applications easily and elegantly on top of the USDAO system** 
+### **Resourceful documentation, APIs, and tools to build applications easily and elegantly on top of the USDAO system**&#x20;
 
 We are providing rich content for the documentation, libraries, and APIs along with tutorials to the developer community to build applications on top of USDAO. The resources will be compatible with all the major programming languages that are popular in blockchain development. This promises continuous innovation & development of innumerous applications in the future.
 
-###  **Simplified integration and user-friendly tools**
+### &#x20;**Simplified integration and user-friendly tools**
 
-We have emphasized heavily keeping the complexity of the applications away from the user experience. The applications and tools built on USDAO stable ****coin are very simple to integrate into any web or mobile application. All our applications are designed to be cross-OS platforms, cross-browser platforms with minimal clicks and dependencies. We are also providing simple documentation, video tutorials, and support to simplify the integration of our apps on your platform easily and with minimal technical knowledge.
+We have emphasized heavily keeping the complexity of the applications away from the user experience. The applications and tools built on USDAO stable** **coin are very simple to integrate into any web or mobile application. All our applications are designed to be cross-OS platforms, cross-browser platforms with minimal clicks and dependencies. We are also providing simple documentation, video tutorials, and support to simplify the integration of our apps on your platform easily and with minimal technical knowledge.
 
 ### **Robust architecture and a strong peg to 1 USD**
 
@@ -24,3 +24,6 @@ USDAO and its applications are deployed in multiple blockchains including Ethere
 
 USDAO shall be available to all the major exchanges of the world including both centralized and decentralized exchanges. It shall also be available in as many pairs as possible notably USDAO/ETH, USDAO/BTC, and many more.
 
+### Slippage Less Minting Of USDAO
+
+The users which would be collateralizing their ETH to mint USDAO will get USDAO at 1:1 ratio for minting upto 5% of the total collateralization . So no slippage while you mint if the total USDAO minted is less than < 5% of total collatralization in the USDAO ecosystem

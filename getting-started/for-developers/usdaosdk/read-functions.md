@@ -13,7 +13,7 @@ import { readUtil } from 'usdao';
 ```
 
 {% hint style="info" %}
-Functions in readUtil module contains read-only functions that do not cost any fee. 
+Functions in readUtil module contains read-only functions that do not cost any fee.&#x20;
 {% endhint %}
 
 Let's dive into various read-only functions provided by the readUtil module.
@@ -23,7 +23,7 @@ Let's dive into various read-only functions provided by the readUtil module.
 {% code title="Initialise Infura connection" %}
 ```bash
 # returns read functions
-const readConn  = new infuraUtil(provider_url="Infura URL here)
+const readConn  = new infuraUtil(provider_url="Infura URL here")
 ```
 {% endcode %}
 
@@ -176,4 +176,3 @@ Returns the total supply of USDAO or Asset
 # @param token -- usm or fum
 await readConn.totalSupply(token)
 ```
-

@@ -21,7 +21,7 @@ This class is for initialising transaction involving functions.
 {% code title="Initialise the writeUtil module" %}
 ```bash
 # returns write functions
-var writeContract  = new writeUtil(provider_url="Infura URL here)
+var writeContract  = new writeUtil(provider_url="Infura URL here")
 ```
 {% endcode %}
 
