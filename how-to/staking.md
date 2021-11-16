@@ -1,3 +1,7 @@
+---
+description: USDAO STAKING
+---
+
 # Staking
 
 The USDAO ecosystem provides a highly competitive interest rate for the users who want to stake for the long term.
@@ -10,7 +14,6 @@ Users need to have USDAO in their wallet to stake for a minimum of 12 months wit
 
 A user can stake multiple times as per his wish with the allowed time period of 12 months to 36 months.
 
-Users can also choose in between auto staking and staking of their funds at their disposal
+![USDAO STAKING](<../.gitbook/assets/Staking Diagrame.png>)
 
 In auto staking, if a user staked for a year and forgets to takes out his USDAO for example 3 months then users will be provided with the additional 3 months of interest on the principal amount invested and can be claimed at any time as the claim button enables once your staking lock period is over
-

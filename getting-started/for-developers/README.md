@@ -1,8 +1,14 @@
 # For Developers
 
-{% page-ref page="governance.md" %}
+{% content-ref url="governance.md" %}
+[governance.md](governance.md)
+{% endcontent-ref %}
 
-{% page-ref page="usdaosdk/" %}
+{% content-ref url="usdaosdk/" %}
+[usdaosdk](usdaosdk/)
+{% endcontent-ref %}
 
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 

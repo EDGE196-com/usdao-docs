@@ -4,9 +4,10 @@ The USDAO stable coin is designed to be pegged to 1 US dollar. The two operation
 
 ![USDAO V1](../../.gitbook/assets/stablecoin-diagrams.png)
 
-However, since the price of Ether is constantly volatile it is required to maintain the US dollar value of the reserve pool always greater than the number of stable coins \(USDAO\) out in the market. This is made possible by the second token called the ASSET token. ASSET tokens allow investors to fund the system with Ethers to keep the system always healthy. Similar to USDAO, the holders of ASSET tokens can also buy \(or fund\) and sell \(or defund\) their tokens. However, the ASSET token is a token that assumes the risks and harvests the benefits. It gives investors a unique opportunity to not only scale their profit but also earn a share in the revenue.
+However, since the price of Ether is constantly volatile it is required to maintain the US dollar value of the reserve pool always greater than the number of stable coins (USDAO) out in the market. This is made possible by the second token called the ASSET token. ASSET tokens allow investors to fund the system with Ethers to keep the system always healthy. Similar to USDAO, the holders of ASSET tokens can also buy (or fund) and sell (or defund) their tokens. However, the ASSET token is a token that assumes the risks and harvests the benefits. It gives investors a unique opportunity to not only scale their profit but also earn a share in the revenue.
 
 The exchange rate for the above operation is determined by a set of oracles.
 
-USDAO can be used for everyday means of exchange, a store of value, market entry, and most commonly, to provide a less volatile holding ground for investors and traders during the upswings and crashes of the cryptocurrency market.
+![USDAO Transfer Flow](<../../.gitbook/assets/Transfer Flow.png>)
 
+USDAO can be used for everyday means of exchange, a store of value, market entry, and most commonly, to provide a less volatile holding ground for investors and traders during the upswings and crashes of the cryptocurrency market.
