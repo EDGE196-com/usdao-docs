@@ -24,7 +24,7 @@
 ## How-To
 
 * [Buying/Selling](how-to/buying-selling.md)
-* [Staking](how-to/staking.md)
+* [USDAO Staking](how-to/staking.md)
 
 ## USDAO Stack
 
