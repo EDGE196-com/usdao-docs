@@ -97,4 +97,4 @@
 
 * [USDAO Whitepaper](https://www.usdao.io/whitepaper)
 * [Conclusion](conclusion.md)
-* [Contact Reference](contact-reference.md)
+* [Contact Reference](https://app.usdao.io/contactus)

@@ -34,7 +34,7 @@ Now suppose ETH/USD halves to $500. Then pool value halves to $25,000, and debt 
 
 However, with time the quantity of usmSupplyForFumBuys is increased so that the price of Asset tokens decreases and investors are incentivized to buy it. Let’s understand how this happens.
 
-Let’s say when the debt ratio hit 80% the usmSupplyForFumBuys was 20,000. Let’s assume the actual total USDAO in circulation is 25000. Assuming the half-life (rate of increase in the supply of usmSupplyForFumBuys) be 1 day so three days after going underwater, the supply returned will be 25,000 - 0.5_\*3 _ (25,000 - 20,000) = 24,375.
+Let’s say when the debt ratio hit 80% the usmSupplyForFumBuys was 20,000. Let’s assume the actual total USDAO in circulation is 25000. Assuming the half-life (rate of increase in the supply of usmSupplyForFumBuys) be 1 day so three days after going underwater, the supply returned will be 25,000 - 0.5_\*3_ (25,000 - 20,000) = 24,375.
 
 If the output was greater than 25000 it would be capped to 25000 because usmSupplyForFumBuys cannot be greater than the actual supply of USDAO.
 
