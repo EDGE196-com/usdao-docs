@@ -9,7 +9,7 @@ description: >-
 
 ## Overview
 
-The volatility of popular digital assets, such as Bitcoin (BTC), Ether (ETH) make them difficult to be used as a common currency. **** In order to avoid such problems, many stable coins have been created, Some of them are fiat-backed (entirely collateralized) like USDC, USDT, TUSD, etc. Some of them are crypto-backed such as DAI. And some of them are algorithmic stable coins (entirely algorithmic with no backing) such as BASIS, ESD, DSD, etc. Stable Coins are cryptocurrencies designed to minimize the price's volatility relative to a single asset or basket of assets.
+The volatility of popular digital assets, such as Bitcoin (BTC), Ether (ETH) make them difficult to be used as a common currency.** **In order to avoid such problems, many stable coins have been created, Some of them are fiat-backed (entirely collateralized) like USDC, USDT, TUSD, etc. Some of them are crypto-backed such as DAI. And some of them are algorithmic stable coins (entirely algorithmic with no backing) such as BASIS, ESD, DSD, etc. Stable Coins are cryptocurrencies designed to minimize the price's volatility relative to a single asset or basket of assets.
 
 USDAO is a fully crypto asset-backed stable currency by USDAO Decentralized Autonomous Organization. A digital token intended to serve as a global currency. USDAO brings together familiar concepts into a never-before-seen protocol.
 

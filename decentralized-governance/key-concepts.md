@@ -14,7 +14,7 @@ A proposal is an executable code that, if run, would make the proposed changes i
 
 ### Voting&#x20;
 
-People whose addresses have been delegated to vote for a proposal may choose to vote for or against a proposal. The votes can be cast only if the proposal is in an inactive state. Votes can be cast immediately by the cast vote feature or later using the _<mark style="color:orange;">castVoteBySig</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;"><mark style="background-color:yellow;">****<mark style="background-color:yellow;"></mark> feature. There are a total of 10 million governance tokens. If a minimum of 4% of the total votes have participated and most of the votes cast are in favor of the proposal, then the proposal is queued in the time lock. If not, the proposal is rejected. The voting period is 3 days.&#x20;
+People whose addresses have been delegated to vote for a proposal may choose to vote for or against a proposal. The votes can be cast only if the proposal is in an inactive state. Votes can be cast immediately by the cast vote feature or later using the _<mark style="color:orange;">castVoteBySig</mark>_<mark style="color:orange;"><mark style="background-color:yellow;">** **<mark style="background-color:yellow;"></mark>feature. There are a total of 10 million governance tokens. If a minimum of 4% of the total votes have participated and most of the votes cast are in favor of the proposal, then the proposal is queued in the time lock. If not, the proposal is rejected. The voting period is 3 days.&#x20;
 
 
 
