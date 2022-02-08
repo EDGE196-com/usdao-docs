@@ -42,7 +42,7 @@
 
 ## Protocol
 
-* [Tokonomics](protocol/tokonomics.md)
+* [Tokenomics](protocol/tokonomics.md)
 * [Protocol Fees](protocol/protocol-fees.md)
 
 ## Decentralized Governance
