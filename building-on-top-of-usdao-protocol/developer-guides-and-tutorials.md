@@ -1,8 +1,10 @@
 # Developer Guides &  Tutorials
 
+## Developer guides
+
 Checkout Detailed Information Of USDAO Integration
 
-{% page-ref page="../getting-started/for-developers/" %}
-
-
+{% content-ref url="../getting-started/for-developers/" %}
+[for-developers](../getting-started/for-developers/)
+{% endcontent-ref %}
 
