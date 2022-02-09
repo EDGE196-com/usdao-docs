@@ -1,5 +1,7 @@
 # Terminologies
 
+## USDAO Terminologies
+
 ### USDAO Pool <a href="#reserve-pool" id="reserve-pool"></a>
 
 The Ether that is deposited during the minting operation of either USDAO or ASSET token is deposited into the USDAO smart contract, also known as, the reserve pool. The reserve pool is the backbone of the whole system as it determines the health of the economy of the system. It helps determine the price of the ASSET token as well as determine the debt ratio.
