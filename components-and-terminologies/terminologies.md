@@ -1,5 +1,7 @@
 # Terminologies
 
+## Terminologies used
+
 ## USDAO Terminologies
 
 ### USDAO Pool <a href="#reserve-pool" id="reserve-pool"></a>
