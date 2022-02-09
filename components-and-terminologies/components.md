@@ -1,5 +1,7 @@
 # Components
 
+## Components of the protocol
+
 **USDAO** is a three token protocol, both the tokens are linked with each other via smart contracts which powers the whole USDAO ecosystem. The Governance token helps in maintaining the protocol more decentralized.
 
 ### USDAO
