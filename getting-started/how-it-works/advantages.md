@@ -1,8 +1,12 @@
 # Advantages
 
+## **Advantages of using the USDAO Protocol**
+
+There are many reasons for cryptocurrency holders, developers and businesses to use the USDAO protocol including:&#x20;
+
 ### **Resourceful documentation, APIs, and tools to build applications easily and elegantly on top of the USDAO system**&#x20;
 
-We are providing rich content for the documentation, libraries, and APIs along with tutorials to the developer community to build applications on top of USDAO. The resources will be compatible with all the major programming languages that are popular in blockchain development. This promises continuous innovation & development of numerous applications in the future.
+We are providing rich content for the documentation, [libraries](../for-developers/), and APIs along with tutorials to the developer community to build applications on top of USDAO. The resources will be compatible with all the major programming languages that are popular in blockchain development. This promises continuous innovation & development of numerous applications in the future.
 
 ### &#x20;**Simplified integration and user-friendly tools**
 
@@ -14,7 +18,7 @@ The pooling mechanism is designed in such a way as to always grow in value witho
 
 ### **Governed by a 100 percent decentralized community**
 
-Any person with governance tokens has the right to create, vote, or delegate proposals which can make important and crucial changes depending on the future requirement.
+Any person with [governance](../for-developers/governance.md) tokens has the right to create, vote, or delegate proposals which can make important and crucial changes depending on the future requirement.
 
 ### **Presence in multiple blockchains**
 
@@ -26,4 +30,4 @@ USDAO shall be available to all the major exchanges of the world including both 
 
 ### Slippage Less Minting Of USDAO
 
-The users which would be collateralizing their ETH to mint USDAO will get USDAO at 1:1 ratio for minting up to 5% of the total collateralization . So no slippage while you mint if the total USDAO minted is less than  5% of total collatralization in the USDAO ecosystem
+The users which would be exchanging their ETH to mint USDAO will get USDAO at 1:1 ratio for minting up to 5% of the total collateralization . So no slippage while you mint if the total USDAO minted is less than  5% of total collateralization in the USDAO ecosystem
