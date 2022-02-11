@@ -1,8 +1,12 @@
 # Key Concepts
 
-### Governance Token
+## Key Concepts
 
-The governance token DAOGOV is an ERC20 token that is required to participate in governance protocol. Any individual or entity with governance tokens in their wallet can create, delegate or vote a proposal. The amount of governance tokens in the wallet determines the weight of the voting right of that individual. More the token the person has in his wallet, the more weightage he has in voting.&#x20;
+Key concepts relating to the governance of the USDAO protocol
+
+### Governance Token (DAOGOV)
+
+The governance token DAOGOV is an ERC20 token that is required to participate in the USDAO governance protocol. Any individual or entity with governance tokens in their wallet can create, delegate or vote a proposal. The amount of governance tokens in the wallet determines the weight of the voting right of that individual. The More tokens a holder has in his or her wallet, the more voting weight they have.&#x20;
 
 ### Delegation&#x20;
 
@@ -14,14 +18,24 @@ A proposal is an executable code that, if run, would make the proposed changes i
 
 ### Voting&#x20;
 
-People whose addresses have been delegated to vote for a proposal may choose to vote for or against a proposal. The votes can be cast only if the proposal is in an inactive state. Votes can be cast immediately by the cast vote feature or later using the _<mark style="color:orange;">castVoteBySig</mark>_<mark style="color:orange;"><mark style="background-color:yellow;">** **<mark style="background-color:yellow;"></mark>feature. There are a total of 10 million governance tokens. If a minimum of 4% of the total votes have participated and most of the votes cast are in favor of the proposal, then the proposal is queued in the time lock. If not, the proposal is rejected. The voting period is 3 days.&#x20;
+People whose addresses have been delegated to vote for a proposal may choose to vote for or against a proposal. The votes can be cast only if the proposal is in an inactive state. Votes can be cast immediately by the cast vote feature or later using the _<mark style="color:orange;">castVoteBySig</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;"><mark style="background-color:yellow;">****<mark style="background-color:yellow;"></mark> feature. There are a total of 10 million governance tokens. If a minimum of 4% of the total votes have participated and most of the votes cast are in favor of the proposal, then the proposal is queued in the time lock. If not, the proposal is rejected. The voting period is 3 days.&#x20;
 
 
 
 ### Time lock
 
-Once a proposal is accepted it is not immediately executed. Rather it is queued in the time lock where it sits for the next 2 days. After 2 days, the proposal is executed, and the changes can be observed publicly. This is important because the period of 2 days can be used by the community to notify the general users of USDAO stablecoin about the incoming changes through various platforms. The proposals only get rescinded when they do not meet enough votes in their favor.&#x20;
+Once a proposal is accepted it is not immediately executed. Rather it is queued in the time lock where it sits for the next 2 days. After 2 days, the proposal is executed, and the changes can be observed publicly. This is important because the period of 2 days can be used by the community to notify the general users of USDAO stablecoin about the incoming changes through various platforms. Proposals only get rescinded if they are not approved by a simple majority of votes cast (or fail to meet the quorum of votes).&#x20;
 
-It is, however, important to learn that for truly decentralized governance the token distribution should be organized very carefully to more and more people especially in the initial phase. Any individual or entity owning a very large share of governance tokens could pose a potential threat to the decentralized nature of the governance model. Hence for the initial phase, the USDAO foundation shall keep most of the governance tokens and shall distribute them in a steady and organized manner. It is important to nurture the system in its initial phase. We assure you that over some time the governance model will be truly decentralized and owned by a community of very learned and passionate people like you. The governance tokens shall also be distributed to our members building successful use cases for USDAO like startups and others. The foundation assures everyone to follow the best practices to build and maintain the USDAO community.&#x20;
+### Token Distribution
+
+It is, however, important to learn that for truly decentralized governance the token distribution should be organized very carefully to more and more people especially in the initial phase.&#x20;
+
+Any individual or entity owning a very large share of governance tokens could pose a potential threat to the decentralized nature of the governance model.&#x20;
+
+Hence for the initial phase, the USDAO foundation shall keep most of the governance tokens and shall distribute them in a steady and organized manner. It is important to nurture the system in its initial phase. We assure you that over some time the governance model will be truly decentralized and owned by a community of very learned and passionate people like you.&#x20;
+
+The governance tokens shall also be distributed to our members building successful use cases for USDAO like startups and others. The foundation assures everyone to follow the best practices to build and maintain the USDAO community.&#x20;
+
+### Proposal Flow
 
 ![Governance Process](<../.gitbook/assets/01 (1).png>)
