@@ -1,6 +1,6 @@
 # Buying/Selling
 
-## USDAO:
+## How to Buy and Sell USDAO:
 
 ### Through Minting
 
