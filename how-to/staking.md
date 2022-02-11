@@ -2,18 +2,20 @@
 description: USDAO STAKING
 ---
 
-# Staking
+# USDAO Staking
+
+## USDAO Staking
 
 The USDAO ecosystem provides a highly competitive interest rate for the users who want to stake for the long term.
 
-Never lose your funds. Play Safe with USDAO staking and book profit.
+The USDAO ecosystem provides a 6% annual fixed returns in USDAO stable coin for users who participate in staking their tokens.&#x20;
 
-The USDAO ecosystem provides an amazing opportunity of 6% annual fixed returns in USDAO stable coin with USDAO staking.
+In order to stake, users need to have a minimum of 100 USDAO in their wallet in order to begin staking.&#x20;
 
-Users need to have USDAO in their wallet to stake for a minimum of 12 months with a minimum amount of 100 USDAО per staking.
-
-A user can stake multiple times as per his wish with the allowed time period of 12 months to 36 months.
+A user can stake multiple times as per his wish within the chosen staking time period.&#x20;
 
 ![USDAO STAKING](<../.gitbook/assets/Staking Diagrame.png>)
 
-In auto staking, if a user staked for a year and forgets to takes out his USDAO for example 3 months then users will be provided with the additional 3 months of interest on the principal amount invested and can be claimed at any time as the claim button enables once your staking lock period is over
+### Auto Staking
+
+Auto Staking means that after a staking period ends, if the user forgets to remove their funds, staking will renew, ensuring that additional interest will be earned on the principal amount invested, and which can be claimed at any time as the claim button enables once the current staking lock period ends.&#x20;
