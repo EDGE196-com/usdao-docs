@@ -4,11 +4,15 @@ description: Governance SDK Functions.
 
 # Governance
 
+### Developers: Governance Functions
+
+This section outlines how to initialize and use governance functions inside of the USDAO protocol.&#x20;
+
 ### Initialize Governance
 
 This will initialize the Governance functions and methods. Returns the provider, signer, and network for the wallet connected.
 
-```text
+```
 await initiateGovernance(`infuraUrl`)
 ```
 
@@ -16,7 +20,7 @@ await initiateGovernance(`infuraUrl`)
 
 This will return the governance contract address and abi from the contract.
 
-```text
+```
 await govAddressAndAbi()
 ```
 
@@ -24,42 +28,41 @@ await govAddressAndAbi()
 
 This will return the DAOGOV contract address and abi from the contract.
 
-```text
+```
 await daogovAddressAndAbi()
 ```
 
-* **USDAO Address And Abi**
+*   **USDAO Address And Abi**
 
-  This will return the USDAO contract address and abi from the contract.
+    This will return the USDAO contract address and abi from the contract.
 
-  ```text
-  await usdaoAddressAndAbi()
-  ```
-
+    ```
+    await usdaoAddressAndAbi()
+    ```
 * **Make Contract**
 
-Creates and returns the contract for the given address, and abi.  
-address: string, abi: abi\[\]
+Creates and returns the contract for the given address, and abi.\
+address: string, abi: abi\[]
 
-```text
+```
 await makeContract(address, abi)
 ```
 
 * **Load Proposals**
 
-Loads the governance proposals for the given ids.  
-ids: number\[\]
+Loads the governance proposals for the given ids.\
+ids: number\[]
 
-```text
+```
 await loadProposals()
 ```
 
 * **Load Proposals State**
 
-Loads the governane proposal state for the given ids.  
-ids: number\[\]
+Loads the governane proposal state for the given ids.\
+ids: number\[]
 
-```text
+```
 await loadProposalStates()
 ```
 
@@ -67,16 +70,16 @@ await loadProposalStates()
 
 Returns the burn fee, mint fee, transaction fee, transfer fee, defund fee.
 
-```text
+```
 await loadFees()
 ```
 
 * **Create Proposal**
 
-Creates and returns a governance proposal for the passed targets, values, signature, calldata and description.  
+Creates and returns a governance proposal for the passed targets, values, signature, calldata and description.\
 targets: string, values: number, signature: string, description: string
 
-```text
+```
 await createProposal(targets, values, signature, calldatas, description)
 ```
 
@@ -84,7 +87,7 @@ await createProposal(targets, values, signature, calldatas, description)
 
 Fetches and returns the delegated votes.
 
-```text
+```
 await fetchDelegateVotes()
 ```
 
@@ -92,7 +95,6 @@ await fetchDelegateVotes()
 
 Delegate votes to a given address.
 
-```text
+```
 await createDelegate(`delegateAddress`)
 ```
-

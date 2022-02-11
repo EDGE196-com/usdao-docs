@@ -6,7 +6,11 @@ description: Trading SDK functions.
 
 ## Developers: How to install and use the SDK
 
+This page outlines how to install the USDAO protocol Software Development Kit (SDK). Individual functions are listed below.&#x20;
+
 This section outlines how developers can install the Software Development Kit (SDK) for the USDAO protocol.&#x20;
+
+### Install from npm
 
 ### Install from npm
 
