@@ -1,13 +1,17 @@
 # Protocol Fees
 
-USDAO minting fee: 0.3% of total transactions in USDAO
+## Fees charged by the USDAO Protocol
 
-USDAO burning fee: 0.3% of total transactions in ETH
+This page outlines the default fees which are payable by users of the USDAO protocol for the varying different functions inside of the ecosystem.&#x20;
 
-Asset minting fee: 2% of total transaction collect in Asset token
+USDAO minting fee: 0.3% of total transactions in USDAO. This fee is not paid directly by the user who mints the tokens, but is an additional amount which is minted at the point of creation, and which is added to the USDAO Pool automatically.&#x20;
 
-Asset Burning fee: 3% of total transaction collected in ETH
+USDAO burning fee: 0.3% of total transactions in ETH. This is paid by the user and is automatically calculated at the point of burn.&#x20;
 
-Transaction fee: 0.3% in USDAO fee on every wallet address to address transfer
+Asset minting fee: 2% of total transaction collected in Asset token.
 
-Staking Fee: 0.2%
+Asset Burning fee: 3% of total transaction collected in ETH.
+
+Transaction fee: 0.3% in USDAO fee on every address-to-address (wallet-to-wallet) transfer conducted.&#x20;
+
+Staking Fee: 0.2% of the total amount staked.&#x20;
